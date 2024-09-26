@@ -1,1 +1,3 @@
 Arquivo alterado pelo GitHub para teste.
+
+Versão 2
